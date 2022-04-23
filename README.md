@@ -34,30 +34,35 @@ PragProg primarily ship to the USA. In other parts of the world, you can use Ama
 
 You can also ask your local library or favorite independent bookstore for ISBN: `978-1680509175`.
 
-*Source Code*
+*Source Code by Puzzle*
 
-* Three and a Bit
-* Non-standard Input
-* Type Conversion
-* Byte-Sized Chunks
-* How Long is a String?
-* Please Reboot the Universe
-* There and Back Again
-* Walks Like a Duck, Quacks like a Duck
-* Out of Order
-* X Marks the Spot
-* Stacking Boxes
-* Amnesia
-* Reverse the Polarity of the Neutron Flow
-* Structure Sizing
-* To Infinity
-* Double or Nothing
-* How Long is a Vector?
-* Mutable Immutables
-* Sleepless in Tokio
-* Hello, Bonjour
-* Tying a Gourdian Knot
-* Waiting for Godot
-* Constant Loops
-* Home on the Range
+* [Three and a Bit](https://github.com/thebracket/rust_brain_teasers/tree/main/three_and_a_bit)
+* [Non-standard Input](https://github.com/thebracket/rust_brain_teasers/tree/main/standard_input)
+* [Type Conversion](https://github.com/thebracket/rust_brain_teasers/tree/main/type_conversion)
+* [Byte-Sized Chunks](https://github.com/thebracket/rust_brain_teasers/tree/main/byte_sized)
+    * [With Wrapping](https://github.com/thebracket/rust_brain_teasers/tree/main/byte_sized_wrap)
+* [How Long is a String?](https://github.com/thebracket/rust_brain_teasers/tree/main/string_length)
+* [Please Reboot the Universe](https://github.com/thebracket/rust_brain_teasers/tree/main/reboot_universe)
+* [There and Back Again](https://github.com/thebracket/rust_brain_teasers/tree/main/there_and_back)
+* [Walks Like a Duck, Quacks like a Duck](https://github.com/thebracket/rust_brain_teasers/tree/main/quack)
+* [Out of Order](https://github.com/thebracket/rust_brain_teasers/tree/main/out_of_order)
+* [X Marks the Spot](https://github.com/thebracket/rust_brain_teasers/tree/main/x_marks_spot)
+* [Stacking Boxes](https://github.com/thebracket/rust_brain_teasers/tree/main/boxes)
+* [Amnesia](https://github.com/thebracket/rust_brain_teasers/tree/main/amnesia)
+* [Reverse the Polarity of the Neutron Flow](https://github.com/thebracket/rust_brain_teasers/tree/main/reverse_polarity)
+* [Structure Sizing](https://github.com/thebracket/rust_brain_teasers/tree/main/structure_sizing)
+* [To Infinity](https://github.com/thebracket/rust_brain_teasers/tree/main/linked_list)
+* [Double or Nothing](https://github.com/thebracket/rust_brain_teasers/tree/main/double_or_nothing)
+    * [Solution](https://github.com/thebracket/rust_brain_teasers/tree/main/double_or_nothing_working)
+* [How Long is a Vector?](https://github.com/thebracket/rust_brain_teasers/tree/main/vec_size)
+* [Mutable Immutables](https://github.com/thebracket/rust_brain_teasers/tree/main/mutable_immutable)
+* [Sleepless in Tokio](https://github.com/thebracket/rust_brain_teasers/tree/main/sleepless)
+* [Hello, Bonjour](https://github.com/thebracket/rust_brain_teasers/tree/main/hello_bonjour)
+    * [With Constants](https://github.com/thebracket/rust_brain_teasers/tree/main/hello_bonjour_const)
+    * [With Static Binding](https://github.com/thebracket/rust_brain_teasers/tree/main/hello_bonjour_static)
+* [Tying a Gourdian Knot](https://github.com/thebracket/rust_brain_teasers/tree/main/gordian_knot)
+* [Waiting for Godot](https://github.com/thebracket/rust_brain_teasers/tree/main/waiting_for_godot)
+* [Constant Loops](https://github.com/thebracket/rust_brain_teasers/tree/main/const_loop)
+    * [Solution](https://github.com/thebracket/rust_brain_teasers/tree/main/const_loop_works)
+* [Home on the Range](https://github.com/thebracket/rust_brain_teasers/tree/main/morse_code)
 
