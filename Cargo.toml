@@ -1,0 +1,41 @@
+[package]
+name = "teasers"
+version = "0.1.0"
+authors = ["Herbert Wolverson <herberticus@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[workspace]
+members = [
+    "byte_sized",
+    "byte_sized_wrap",
+    "three_and_a_bit",
+    "reboot_universe",
+    "out_of_order",
+    "standard_input",
+    "string_length",
+    "x_marks_spot",
+    "type_conversion",
+    "there_and_back",
+    "quack",
+    "structure_sizing",
+    "mutable_immutable",
+    "sleepless",
+    "async_threaded",
+    "waiting_for_godot",
+    "reverse_polarity",
+    "double_or_nothing",
+    "double_or_nothing_working",
+    "hello_bonjour",
+    "hello_bonjour_static",
+    "hello_bonjour_const",
+    "amnesia",
+    "const_loop",
+    "const_loop_works",
+    "boxes",
+    "vec_size",
+    "gordian_knot",
+    "morse_code",
+    "linked_list",
+]

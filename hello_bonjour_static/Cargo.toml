@@ -1,0 +1,10 @@
+[package]
+name = "hello_bonjour_static"
+version = "0.1.0"
+edition = "2018"
+
+[features]
+english = []
+french = []
+
+[dependencies]

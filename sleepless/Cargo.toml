@@ -1,0 +1,7 @@
+[package]
+name = "sleepless"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+tokio = { version = "1.7", features = ["full"] }
