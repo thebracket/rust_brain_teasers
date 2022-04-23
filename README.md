@@ -2,7 +2,7 @@
 
 This repo contains source code from my second book, *Rust Brain Teasers*. Ever puzzle is included, as well as expanded versions for when a chapter includes a solution.
 
-*About Rust Brain Teasers*
+## About Rust Brain Teasers
 
 The Rust programming language is consistent and does its best to avoid surprising the programmer. Like all languages, though, Rust still has its quirks. But these quirks present a teaching opportunity. In this book, you’ll work through a series of brain teasers that will challenge your understanding of Rust. By understanding the gaps in your knowledge, you can become better at what you do and avoid mistakes. Many of the teasers in this book come from the author’s own experience creating software. Others derive from commonly asked questions in the Rust community. Regardless of their origin, these brain teasers are fun, and let’s face it: who doesn’t love a good puzzle, right?
 
@@ -12,7 +12,7 @@ Dive right in and get started with example code and sample problems that cover n
 
 Are you ready to experience Rust like never before? Then sharpen your brain and get ready for a challenge!
 
-*Where to Buy?*
+## Where to Buy?
 
 *Rust Brain Teasers* is available directly from the Pragmatic Programmers. [You can buy it directly from the publisher, here](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/).
 
@@ -34,7 +34,7 @@ PragProg primarily ship to the USA. In other parts of the world, you can use Ama
 
 You can also ask your local library or favorite independent bookstore for ISBN: `978-1680509175`.
 
-*Source Code by Puzzle*
+# Source Code by Puzzle
 
 * [Three and a Bit](https://github.com/thebracket/rust_brain_teasers/tree/main/three_and_a_bit)
 * [Non-standard Input](https://github.com/thebracket/rust_brain_teasers/tree/main/standard_input)
